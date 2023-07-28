@@ -1,16 +1,42 @@
-### Hi there 👋
+# Professional Profile 🚀
 
-<!--
-**brayandavila/brayandavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Technologist in Systems Development** with experience in various programming languages, including JavaScript, Python, C++, SQL, Typescript, Dart, and PHP. I am proficient in handling frameworks such as Angular, Laravel, and Flutter, and skilled in using version control tools like Git and GitHub. My approach is agile and collaborative, having worked on projects using SCRUM and Kanban methodologies.
 
-Here are some ideas to get you started:
+## Last Job Responsibilities 💼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Team Leader at Innovating 🏢
+
+As a **Team Leader at Innovating**, I was responsible for developing **custom software solutions** for various business areas, such as accounting, human resources, payroll, inventory, production, and task management.
+
+- Led the implementation of solutions using **Laravel** to manage the API, consumed from the frontend built with **Angular**.
+- Defined requirements, conducted planning, assigned tasks, and ensured **code quality**.
+- Strengthened leadership skills, project management, and software development expertise, gaining **in-depth knowledge** of Laravel and Angular in enterprise environments.
+
+## Skills 🛠️
+
+- JavaScript
+- Python
+- C++
+- SQL
+- Typescript
+- Dart
+- PHP
+- Angular
+- Laravel
+- Flutter
+- Git
+- GitHub
+
+## Methodologies ⚙️
+
+- Agile (SCRUM)
+- Kanban
+
+## Let's Connect! 📞
+
+Feel free to reach out to me through the following channels:
+
+- LinkedIn: [Brayan Dávila](https://www.linkedin.com/in/brayan-davila-a484b991)
+- Email: brageodavovi@gmail.com
+
+Let's create amazing things together! 🚀
