@@ -38,5 +38,6 @@ Feel free to reach out to me through the following channels:
 
 - LinkedIn: [Brayan Dávila](https://www.linkedin.com/in/brayan-davila-a484b991)
 - Email: brageodavovi@gmail.com
+- Portfolio: [Portfolio](https://candid-elf-045742.netlify.app)
 
 Let's create amazing things together! 🚀
